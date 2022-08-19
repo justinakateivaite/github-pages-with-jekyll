@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Sveiki atvykę"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Šitas peidžas bus su mano dokumentėliais.
